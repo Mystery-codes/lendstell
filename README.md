@@ -1,7 +1,7 @@
 # Lendstell
 
-Lendstell is a decentralized lending and borrowing platform built on **StarkNet**.  
-It enables users to lend digital assets to earn yield and borrow instantly using crypto collateral — powered by **zk-rollup scalability**, **low fees**, and **transparent smart contracts**.
+Lendstell is a decentralized lending and borrowing platform built on **Stellar**.  
+It enables users to lend digital assets to earn yield and borrow instantly using crypto collateral — powered by **stellar soroban contracts**, **low fees**, and **transparent smart contracts**.
 
 ---
 
@@ -18,9 +18,9 @@ Lendstell was created to fix that: leveraging StarkNet’s zero-knowledge rollup
 - **Lend:** Supply assets to earn interest.  
 - **Borrow:** Use collateral to access instant liquidity.  
 - **Monitor:** View real-time loan health, rates, and positions.  
-- **Secure:** All operations run on verified StarkNet smart contracts.  
+- **Secure:** All operations run on verified Stellar smart contracts.  
 
-Currently live on **StarkNet testnet** with:  
+Currently live on **Stellar testnet** with:  
 - 🔹 Fully functional contracts  
 - 🔹 Temporary API integration using mock data  
 - 🔹 Live frontend deployed on **Vercel**
@@ -31,7 +31,7 @@ Currently live on **StarkNet testnet** with:
 
 - **Frontend:** Next.js + TypeScript + Tailwind CSS + ShadCN UI  
 - **Backend:** NestJS (API + mock data integration)  
-- **Smart Contracts:** Cairo on StarkNet testnet  
+- **Smart Contracts:** stellar soroban testnet  
 - **Deployment:** Frontend hosted on Vercel  
 - **Version Control:** Git + GitHub  
 
@@ -39,7 +39,7 @@ Currently live on **StarkNet testnet** with:
 
 ## 🚧 Challenges We Faced
 
-- Integrating and debugging Cairo contracts with evolving StarkNet tooling  
+- Integrating and debugging soroban contracts with evolving Stellar tooling  
 - Synchronizing mock API data with frontend state  
 - Optimizing UX for non-technical DeFi users  
 - Handling testnet latency and transaction verification  
@@ -48,7 +48,7 @@ Currently live on **StarkNet testnet** with:
 
 ## 🏆 Accomplishments
 
-- Deployed functional Cairo smart contracts on StarkNet testnet  
+- Deployed functional sorobamn smart contracts on Stellar testnet  
 - Built a fully responsive, production-grade dashboard  
 - Implemented modular architecture ready for mainnet scaling  
 - Achieved stable integration between frontend, backend, and blockchain layers  
@@ -57,8 +57,8 @@ Currently live on **StarkNet testnet** with:
 
 ## 📚 What We Learned
 
-- How to architect and test smart contracts in Cairo  
-- Building efficient Layer-2 applications with StarkNet  
+- How to architect and test smart contracts on soroban  
+- Building efficienapplications with Stellar  
 - Designing DeFi UX for accessibility and clarity  
 - Rapid development using mock APIs during contract testing  
 
@@ -71,4 +71,4 @@ Currently live on **StarkNet testnet** with:
 
 
 join us on our telegram channel to build with us
-https://t.me/+X0SXXA62poZiOWM0c
+
